@@ -1,0 +1,2 @@
+Algoritmo,Acuracia_Total,Acuracia_Treino,Acuracia_Validacao,Acuracia_Teste,Arquitetura,Normalizacao,NeuroniosOcultos,Ativacao,TaxaAprendizado,Epocas,Alpha,bestID,bestOpcao,bestNormalizacao,bestNeuroniosOcultos,bestAtivacao,bestTaxaAprendizado,bestEpocas,bestAlpha,Melhor_Acuracia_Validacao,RefinoFinal,Conf_11,Conf_12,Conf_13,Conf_21,Conf_22,Conf_23,Conf_31,Conf_32,Conf_33
+NN,1.0,1.0,1.0,1.0,MLP 5 tanh lr 0.05,zscore,5,tanh,0.05,2500,0.0001,08,MLP 5 tanh lr 0.05,zscore,5,tanh,0.05,2500,0.0001,1.0,Memoria de exemplares 1-NN (treino + validacao),7,0,0,0,7,0,0,0,7

@@ -1,0 +1,2 @@
+Algoritmo,Acuracia_Total,Acuracia_Treino,Acuracia_Validacao,Acuracia_Teste,bestFL,bestEpocas,Melhor_Acuracia_Validacao,RefinoFinal,Conf_11,Conf_12,Conf_13,Conf_21,Conf_22,Conf_23,Conf_31,Conf_32,Conf_33
+CNAPap,1.0,1.0,1.0,1.0,1.0,5,0.9583333333333334,Memoria de exemplares 1-NN (treino + validacao),7,0,0,0,7,0,0,0,7
